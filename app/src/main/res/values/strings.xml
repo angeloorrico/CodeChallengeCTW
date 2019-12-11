@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Code Challenge CTW</string>
+    <string name="title_activity_details">Details</string>
+    <string name="search_hint">Search locations...</string>
+    <string name="no_location_found">Sorry, no locations found.</string>
+    <string name="no_favorited_locations">No favorited locations.</string>
+    <string name="no_internet_connection">Sorry, no internet connection detected.</string>
+    <string name="no_location_permission">Sorry...\n\nThe app needs permission to access the device location.</string>
+    <string name="no_location_disabled">Sorry...\n\nThe app needs device location to be turned on.</string>
+    <string name="search_for_results">Please, search the desired locations.</string>
+    <string name="an_error_occurred">Sorry, an error has occurred.</string>
+    <string name="lb_street">Street:</string>
+    <string name="lb_postal_code">Postal Code:</string>
+    <string name="lb_coordinates">Coordinates:</string>
+    <string name="lb_distance">Distance:</string>
+    <string name="lb_close">Close</string>
+    <string name="mn_sort_by_distance">Sort by distance</string>
+    <string name="mn_sort_by_name">Sort by name</string>
+    <string name="mn_sort_by">Sort by</string>
+    <string name="location_removed_favorites">Location removed from favorites.</string>
+    <string name="location_added_favorites">Location added to favorites.</string>
+</resources>
