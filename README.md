@@ -24,7 +24,7 @@ App developed as part of the Android CTW Code Challenge.
 - MVVM was used as the architectural pattern of the application.
 
 
-#PS:
+# PS:
 
 - The app needs to be tested with an emulator with Google Play Services available, or in a real device.
   - Google Play Services is necessary because of the Google Maps component.
