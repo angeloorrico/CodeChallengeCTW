@@ -29,6 +29,7 @@ App developed as part of the Android CTW Code Challenge.
 - The app needs to be tested with an emulator with Google Play Services available, or in a real device.
   - Google Play Services is necessary because of the Google Maps component.
 - The device location is necessary and requested from the user in order of get locations with distance from Here Suggestions API.
+- Please insert your own Google Maps API Key in order the map component to function.
 
 Screenshots:
 <br><img src="/locations_list.png" width="320">
